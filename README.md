@@ -3,10 +3,10 @@
 ## Installation 🔧
 
 ```
-Download xxx.traineddata file language and add in folder tessdata.
-Languages: https://github.com/tesseract-ocr/tessdata/
+Download 'xxx.traineddata' file language and add in folder 'tessdata'
 ```
+* [Languages for tesseract-ocr](https://github.com/tesseract-ocr/tessdata/)
 
 ## Test ⚙️
-Use swagger.
+Play and use swagger.
 
