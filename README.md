@@ -1,7 +1,12 @@
 # dotnet5-tesseract-ocr
-Download XXX.traineddata file and add in folder 'tessdata'.
 
+## Installation 🔧
+
+```
+Download xxx.traineddata file language and add in folder tessdata.
 Languages: https://github.com/tesseract-ocr/tessdata/
+```
 
-Use swagger for test.
+## Test ⚙️
+Use swagger.
 
