@@ -1,10 +1,10 @@
 ﻿using System;
 using System.IO;
-using dotnet5_tesseract_ocr.Model;
+using dotnet_tesseract_ocr.Model;
 using Microsoft.AspNetCore.Mvc;
 using Tesseract;
 
-namespace dotnet5_tesseract_ocr.Controllers
+namespace dotnet_tesseract_ocr.Controllers
 {
 
     [Route("api/[controller]")]

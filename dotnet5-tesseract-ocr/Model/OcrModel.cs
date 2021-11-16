@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 
-namespace dotnet5_tesseract_ocr.Model
+namespace dotnet_tesseract_ocr.Model
 {
     public class OcrModel
     {

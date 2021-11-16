@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "dotnet5_tesseract_ocr": {
+    "dotnet_tesseract_ocr": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

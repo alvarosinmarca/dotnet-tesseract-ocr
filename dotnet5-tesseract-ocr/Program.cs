@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace dotnet5_tesseract_ocr
+namespace dotnet_tesseract_ocr
 {
     public class Program
     {

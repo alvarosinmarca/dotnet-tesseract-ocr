@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace dotnet5_tesseract_ocr
+namespace dotnet_tesseract_ocr
 {
     public class Startup
     {
@@ -30,7 +30,7 @@ namespace dotnet5_tesseract_ocr
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "dotnet5_tesseract_ocr", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "dotnet_tesseract_ocr", Version = "v1" });
             });
         }
 
@@ -41,7 +41,7 @@ namespace dotnet5_tesseract_ocr
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "dotnet5_tesseract_ocr v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "dotnet_tesseract_ocr v1"));
             }
 
             app.UseHttpsRedirection();
