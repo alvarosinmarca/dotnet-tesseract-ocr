@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-tesseract-ocr", "dotnet5-tesseract-ocr\dotnet-tesseract-ocr.csproj", "{BE2DB1C0-0F02-448D-BAD3-7F1D946C1A61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet6-tesseract-ocr", "dotnet6-tesseract-ocr\dotnet6-tesseract-ocr.csproj", "{BE2DB1C0-0F02-448D-BAD3-7F1D946C1A61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
