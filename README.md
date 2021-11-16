@@ -1,4 +1,4 @@
-# dotnet5-tesseract-ocr
+# dotnet-tesseract-ocr
 
 ## Installation 🔧
 
